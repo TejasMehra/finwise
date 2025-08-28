@@ -14,7 +14,7 @@ st.markdown("""
     }
     .stTextInput > div > div > input,
     .stChatInputContainer textarea {
-        background-color: #ffffff;
+        background-color: #207700FF;
         color: #333333;
         border: 1px solid #bbb;
         border-radius: 10px;
