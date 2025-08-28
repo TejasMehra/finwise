@@ -8,7 +8,7 @@ st.set_page_config(page_title="FinWise AI Advisor", page_icon="💹", layout="wi
 st.markdown("""
     <style>
     .stApp {
-        background: linear-gradient(to bottom right, #f9f9f9, #e8f5e9);
+        background: linear-gradient(to bottom right, #2E2B2BFF, #0C0C0CFF);
         color: #333333;
         font-family: 'Helvetica Neue', sans-serif;
     }
