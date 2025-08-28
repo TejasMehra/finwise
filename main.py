@@ -9,7 +9,7 @@ st.markdown("""
     <style>
     .stApp {
         background: linear-gradient(to bottom right, #2E2B2BFF, #0C0C0CFF);
-        color: #333333;
+        color: #B80F0FFF;
         font-family: 'Helvetica Neue', sans-serif;
     }
     .stTextInput > div > div > input,
